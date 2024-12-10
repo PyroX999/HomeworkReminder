@@ -1,7 +1,7 @@
 // This changes the title of your site
 
 var sitename = "DecentGames"; // Change this to change the name of your website.
-var subtext = "V1"; // set the subtext
+var subtext = "Hi Wyatt"; // set the subtext
 
 // more settings in main.css
 
